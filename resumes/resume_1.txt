@@ -1,0 +1,17 @@
+
+Name: Aarav Sharma
+
+Profile:
+Junior Python Developer.
+
+Skills:
+Python, SQL, Pandas, NumPy, Flask,
+Git, Data Analysis, FastAPI.
+
+Projects:
+1. Sales Data Analysis using Python.
+2. Student Management System using Flask.
+3. REST API Development.
+
+Education:
+B.Tech Computer Science.

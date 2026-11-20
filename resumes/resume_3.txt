@@ -1,0 +1,17 @@
+
+Name: Kabir Kumar
+
+Profile:
+Data Science Enthusiast.
+
+Skills:
+Python, SQL, Pandas, NumPy,
+Machine Learning, Scikit-learn,
+Statistics, Data Analysis.
+
+Projects:
+1. House Price Prediction.
+2. Student Performance Analysis.
+
+Education:
+B.Tech Computer Science.

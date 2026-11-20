@@ -1,0 +1,32 @@
+
+Job Title: Junior Python Developer
+
+Job Description:
+
+We are looking for a Junior Python Developer
+with knowledge of programming and data analysis.
+
+Required Skills:
+
+Python
+SQL
+Pandas
+NumPy
+Flask
+Git
+Data Analysis
+
+Additional Skills:
+
+Scikit-learn
+Machine Learning
+FastAPI
+
+Responsibilities:
+
+1. Develop Python applications.
+2. Work with databases.
+3. Analyze and process datasets.
+4. Build REST APIs.
+5. Write clean and maintainable code.
+6. Work with the development team.

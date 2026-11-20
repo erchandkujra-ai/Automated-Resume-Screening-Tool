@@ -1,0 +1,15 @@
+
+Name: Riya Singh
+
+Profile:
+Frontend Web Developer.
+
+Skills:
+HTML, CSS, JavaScript, React, Git.
+
+Projects:
+1. E-Commerce Website.
+2. Portfolio Website.
+
+Education:
+B.Tech Information Technology.

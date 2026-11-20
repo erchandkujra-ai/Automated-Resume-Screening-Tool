@@ -1,0 +1,16 @@
+
+Name: Meera Verma
+
+Profile:
+Backend Developer.
+
+Skills:
+Python, Flask, SQL, Git,
+REST API, Java, MongoDB.
+
+Projects:
+1. Banking Management System.
+2. REST API Development.
+
+Education:
+B.Tech Computer Science.
